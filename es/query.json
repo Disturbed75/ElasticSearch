@@ -1,0 +1,10 @@
+{
+  "query": {
+    "match": {
+      "title": {
+        "query": "frogaz0",
+        "fuzziness": "AUTO"
+      }
+    }
+  }
+}
